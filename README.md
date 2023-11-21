@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salah
+- 👋 Hi, I’m Salah Eddine LAAMIMECH
 - 👀 I’m interested in DevOps, Networking and software development.
 - 🌱 I’m currently learning Azure pipelines and security.
 - 💞️ I’m looking to collaborate on open source.
